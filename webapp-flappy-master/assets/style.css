@@ -1,0 +1,20 @@
+h1 {
+    color: #ffef00;
+    text-align: center;
+}
+h3 {
+    color: #ffef00
+    text-align: center;
+}
+
+.score {
+    color: gray;
+}
+
+.gold {
+    color: gold;
+}
+#text {
+  text-align: center;
+  border: 4px solid yellow;
+}
